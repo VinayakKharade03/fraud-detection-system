@@ -1,0 +1,57 @@
+# =========================
+# Python (Backend)
+# =========================
+venv/
+env/
+__pycache__/
+*.pyc
+
+.env
+.env.*
+
+data/
+temp_qr/
+temp_audio/
+temp_images/
+temp_videos/
+
+# =========================
+# Flutter (Frontend)
+# =========================
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+.gradle/
+local.properties
+/captures/
+.cxx/
+gradle-wrapper.jar
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# =========================
+# IDE / OS
+# =========================
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# =========================
+# Sensitive
+# =========================
+key.properties
+**/*.keystore
+**/*.jks
+
+# Logs
+*.log

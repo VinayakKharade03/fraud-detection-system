@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# Temp/runtime files
+temp_qr/
+temp_audio/
+temp_images/
+temp_videos/
+
+# Data (datasets, raw files)
+data/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

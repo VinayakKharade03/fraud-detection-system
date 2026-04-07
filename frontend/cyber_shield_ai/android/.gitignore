@@ -1,0 +1,51 @@
+# =========================
+# Flutter / Dart
+# =========================
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# =========================
+# Android / Gradle
+# =========================
+.gradle/
+local.properties
+/captures/
+.cxx/
+gradle-wrapper.jar
+
+# =========================
+# iOS
+# =========================
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# =========================
+# IDE / Editors
+# =========================
+.idea/
+.vscode/
+
+# =========================
+# Sensitive Files
+# =========================
+key.properties
+**/*.keystore
+**/*.jks
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Misc
+# =========================
+.DS_Store
+Thumbs.db
+GeneratedPluginRegistrant.java
