@@ -50,11 +50,21 @@ Fraud Detection Result
 
 ## ⚙️ Tech Stack
 
-**Backend:** FastAPI
-**Frontend:** Flutter
-**ML Models:** Scikit-learn, TensorFlow/Keras
-**Libraries:** OpenCV, PyZbar, Joblib
-**Language:** Python
+Frontend: Flutter (Dart)
+Backend: FastAPI (Python, REST APIs)
+Database & Auth: Supabase (PostgreSQL, JWT Authentication)
+
+Machine Learning:
+- Scikit-learn (classical models)
+- TensorFlow/Keras (deep learning)
+
+Libraries & Tools:
+- OpenCV (image processing)
+- PyZbar (QR/Barcode scanning)
+- Joblib (model serialization)
+
+Programming Language:
+- Python
 
 ---
 
