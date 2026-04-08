@@ -118,14 +118,12 @@ uvicorn app.main:app --host 0.0.0.0 --port 10000
 
 ## 📸 Screenshots
 
-*Add your app screenshots here*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1269db7f-a634-4a5e-898e-c9d14fbe1e16" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/01152cae-10fe-483d-9b7d-d789a74af33c" />
 
 ---
 
-## 🎥 Demo
-
-*Add demo video link here*
-<img width="960" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef578ca0-219b-42bb-ab55-0b7346e6b9a3" />
 
 
 ---
