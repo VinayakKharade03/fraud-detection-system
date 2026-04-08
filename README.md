@@ -125,6 +125,8 @@ uvicorn app.main:app --host 0.0.0.0 --port 10000
 ## 🎥 Demo
 
 *Add demo video link here*
+<img width="960" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef578ca0-219b-42bb-ab55-0b7346e6b9a3" />
+
 
 ---
 
