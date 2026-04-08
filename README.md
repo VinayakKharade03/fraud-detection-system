@@ -2,7 +2,11 @@
 
 ## 🏆 Achievement
 
-🥈 Secured **2nd Place** in a **State-Level Competition**
+🥈 2nd Place – ROTAREX 2026 (State-Level Technical Competition)
+
+Built an end-to-end fraud detection system using Flutter (frontend) and FastAPI (backend)
+
+Implemented machine learning models (Scikit-learn, TensorFlow) with rule-based logic for real-time risk scoring and explainable outputs
 
 ---
 
