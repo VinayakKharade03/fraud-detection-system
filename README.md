@@ -33,11 +33,17 @@ This system is designed to simulate **real-world fraud detection pipelines** use
 ```
 Flutter App (Frontend)
         ↓
+Supabase Auth (JWT)
+        ↓
 FastAPI Backend (REST APIs)
         ↓
-ML Models + Rule Engine
+Fraud Detection Engine
+(ML Models + Rule Engine)
         ↓
-Fraud Detection Result (Risk Score + Explanation)
+Supabase Database (Store Results)
+        ↓
+Fraud Detection Result
+(Risk Score + Explanation)
 ```
 
 ---
